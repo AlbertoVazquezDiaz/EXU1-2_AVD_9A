@@ -2,3 +2,4 @@ Archivo de la actividas 1 - Alberto Vázquez Díaz
 parrafo 2 desde main
 
 Párrafo #1 desde user2
+Párrafo #2 desde user2
